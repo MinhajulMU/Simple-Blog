@@ -52,7 +52,7 @@ run php artisan migrate
 run php artisan DB:seed
 ```
 ```
-run php artisan serve to start
+run php artisan serve (to start)
 ```
 
 ## API Documentation
